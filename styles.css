@@ -5,12 +5,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     padding: 25px;
-    background-image: url("logo1.png");
+    background-image: url("logo.png");
     position: absolute;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    background-size: 15% 25%;
+    background-size: 300px 300px;
 }
 
 h3 {

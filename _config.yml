@@ -2,4 +2,8 @@ title: MJC Biomass
 show_downloads: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+<<<<<<< HEAD
 - jekyll-remote-theme
+=======
+- jekyll-remote-theme
+>>>>>>> a5555175fadb85a89df7de66e4571af8193e6156

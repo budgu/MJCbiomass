@@ -1,5 +1,9 @@
-# Biomass Workshop Challenges
-### 07/31/23-08/17/23
+---
+title: Biomass Workshop Challenges
+layout: template
+filename: challenges.md
+--- 
+
 
 ## Upstream 
 1. Transportation of the weight of biomass is expensive. Converting it needs to be local.  

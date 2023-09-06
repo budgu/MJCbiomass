@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default.html
 title: "Challenge Statements"
-permalink: /challenges.md
+permalink: /challenges
 ---
 
 ## Upstream 

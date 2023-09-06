@@ -1,3 +1,5 @@
+![group photo in front of tree](group1.jpeg)
+
 Workshop outcomes
 1. 27 interviews, 10 guest speakers, and 2 field trips
 1. A problem bank with 150 challenges related to bottlenecks in four “buckets” 

@@ -1,7 +1,6 @@
 ---
 title: Biomass Workshop Challenges
-layout: template
-filename: challenges.md
+layout: default
 --- 
 
 

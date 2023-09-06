@@ -1,7 +1,7 @@
----
-title: Biomass Workshop Challenges
-layout: default
---- 
+layout: page
+title: "Biomass Workshop Challenges"
+permalink: /challenges
+
 
 
 ## Upstream 

@@ -1,4 +1,4 @@
-![group photo in front of tree](group1.jpeg)
+![group photo in front of tree](images/group1.jpeg)
 
 Workshop outcomes
 1. 27 interviews, 10 guest speakers, and 2 field trips

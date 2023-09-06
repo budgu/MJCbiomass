@@ -1,6 +1,6 @@
-layout: page
-title: "Biomass Workshop Challenges"
-permalink: /challenges
+---
+layout: default
+---
 
 
 

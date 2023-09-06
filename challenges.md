@@ -1,3 +1,7 @@
+layout: page
+title: "Challenge Statements"
+permalink: /challenges/
+
 ## Upstream 
 1. Transportation of the weight of biomass is expensive. Converting it needs to be local.  
 1. Costs of transportation can become excessive  

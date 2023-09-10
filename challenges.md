@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Challenges"
+title: "Challenge Statements"
 ---
-
 
 
 ## Upstream 
@@ -64,9 +63,7 @@ title: "Challenges"
 1. We don’t have a big enough workforce to do biotech since it has been outsourced to other countries such as in Europe, China, and Brazil  
 1. Advanced Biofuels Process Development Unit (ABPDU) at Laurence Berkeley Lab (LBL) can’t keep people employed at the company since employees are getting poached to other companies. There is a lack of highly trained/qualified people in the industry  
 1. Most of the workers with the interest, passion, or education to be hired at biotech companies for research positions are commuting out of the Central Valley  
-1. In order to create an industry here we need workers, but to bring workers back we need an industry. 
-       
-           
+1. In order to create an industry here we need workers, but to bring workers back we need an industry.         
 ## Downstream
 1. Biomass products are too expensive, how do/can we lower those prices?  
 1. Bio based products are more expensive than traditional plastics, etc  

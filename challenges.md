@@ -59,7 +59,7 @@ description: A list of 152 biomass-related challenges that we've identified with
 1. Plastic serves an important role in keeping food products sanitary for consumers. New bio-made plastic alternatives will need to adequately serve the same purpose.  
 1. [How can we use invasive species like mistletoe, water hyacinth and cattails to create products?](summaries/invasivespecies.md)
 1. At Aemetis and probably other manufacturing companies, operators are hard to hire and keep onboard  
-1. [How to reduce the costs of making eco-friendly products](summaries/costsEcoProducts.md)
+1. [How to reduce the costs of making eco-friendly products](summaries/ecoProducts.md)
 1. We don’t have a big enough workforce to do biotech since it has been outsourced to other countries such as in Europe, China, and Brazil  
 1. Advanced Biofuels Process Development Unit (ABPDU) at Laurence Berkeley Lab (LBL) can’t keep people employed at the company since employees are getting poached to other companies. There is a lack of highly trained/qualified people in the industry  
 1. Most of the workers with the interest, passion, or education to be hired at biotech companies for research positions are commuting out of the Central Valley  

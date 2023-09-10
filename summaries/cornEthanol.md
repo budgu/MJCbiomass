@@ -1,6 +1,6 @@
 ---
 title: "Alternatives to corn for ethanol production"
-description:  
+description: ‎
 ---
 
 # Are there alternatives to corn for companies to produce ethanol for biofuel?

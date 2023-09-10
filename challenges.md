@@ -43,7 +43,7 @@ title: "Challenge Statements"
 1. Employers consistently express frustration over the accessibility, responsiveness, and alignment of supports in sourcing mid-skill talent across industries and occupations. (Pulled directly from Stan 2030 report, page 11.)  
 1. The County has relatively weak institutional capabilities in research, development, and commercialization that can bring value-add products to market or provide firms with a problem-solving partner to anchor them in the region. (Pulled directly from Stan 2030 report, page 11)  
 1. Biotechnology is inherently dangerous, and should something go wrong, our community could be ground zero for an ecological disaster.  
-1. [Are there alternatives to corn which provide an equally efficient and inexpensive way for companies to produce ethanol for biofuel?](cornEthanol.md)
+1. [Are there alternatives to corn which provide an equally efficient and inexpensive way for companies to produce ethanol for biofuel?](summaries/cornEthanol.md)
 1. How to rebuild local infrastructure and make it more environmentally friendly. 
 1. Money for fixing machinery and even the time going into trying to find replacements for the machines take time.  
 1. What can be done to reduce transportation costs for products to be imported and exported to local areas.  
@@ -57,7 +57,7 @@ title: "Challenge Statements"
 1. The younger demographic of San Joaquin Valley means that we have a less experienced and less skilled workforce.   
 1. How can we access and then test out research done in university settings? 
 1. Plastic serves an important role in keeping food products sanitary for consumers. New bio-made plastic alternatives will need to adequately serve the same purpose.  
-1. [a relative link](summaries/invasive species.md) How can we use invasive species like mistletoe, water hyacinth and cattails to create products? 
+1. [How can we use invasive species like mistletoe, water hyacinth and cattails to create products?](summaries/invasive species.md)
 1. At Aemetis and probably other manufacturing companies, operators are hard to hire and keep onboard  
 1. How to reduce the costs of making eco-friendly products.  
 1. We don’t have a big enough workforce to do biotech since it has been outsourced to other countries such as in Europe, China, and Brazil  

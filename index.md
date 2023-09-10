@@ -1,6 +1,6 @@
 ![group photo in front of tree](images/group1.jpeg)
 
-# [Challenge Statements](challenges.md)
+# [Challenge Statements](challenges.md){: .btn}
 
 Workshop outcomes
 1. 27 interviews, 10 guest speakers, and 2 field trips

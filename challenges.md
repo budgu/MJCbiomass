@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: "Challenge Statements"
-permalink: /challenges
 ---
 
 ## Upstream 

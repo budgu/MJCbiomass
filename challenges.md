@@ -28,15 +28,15 @@ description: A list of 152 biomass-related challenges that we've identified with
 1. There is a lack of some agricultural materials in the area, for example those needed for dairy feed  
 1. Synthetic fertilizer causes farmers to need to use more fertilizer  
 1. Why are orchards paying someone to ground up their trees for mulch/compost when there are monetizable alternative uses for woody biomass?  
-1. Farmers have a lot of woody biomass they don't know what to do with  
+1. [Farmers have a lot of woody biomass they don't know what to do with](summaries/leftoverBiomass.md)
 1. Biomass moisture content presents problems for transportation and storage  
-1. For almond farmers, unit cost per acre has gone down due to the increase in input costs, taxes, and regulations. This means that farmers are having trouble paying the bills since they aren’t making a profit  
+1. [For almond farmers, unit cost per acre has gone down due to the increase in input costs, taxes, and regulations. This means that farmers are having trouble paying the bills since they aren’t making a profit](summaries/farmerBills.md)
 1. How can Christmas trees be repurposed?  
 ## Manufacturing/Technology/Business 
 1. Biofuel factories cost a lot to build and may not be very profitable.  
 1. Cost of transporting dirt to build retention pond for dairy digester  
 1. Biotech companies do not have a body of trained workers to employ  
-1. It's easier for manufacturers to produce objects out of petroleum-based plastics than bio-based plastics  
+1. [It's easier for manufacturers to produce objects out of petroleum-based plastics than bio-based plastics](summaries/petroleum.md)
 1. Patenting organisms may introduce ethical issues.  
 1. Too many innovators get stuck in "pilot" stage of their company  
 1. This tri-county region may not be attractive enough to lure the necessary talent that can build these bio-manufacturing facilities.  
@@ -53,7 +53,7 @@ description: A list of 152 biomass-related challenges that we've identified with
 1. Successfully integrating innovative methods into the handling of biomass disposal or diversion within industrial settings requires a meticulous consideration of operational intricacies and potential disruptions.  
 1. Many pioneering entrepreneurs find themselves entangled in the "pilot" phase of their ventures primarily due to the scarcity of available investment opportunities and grants. Overcoming this hurdle necessitates a comprehensive strategy that addresses funding gaps, fosters investor confidence, and propels innovative biomass initiatives toward commercialization. 
 1. The act of patenting traditional knowledge or biological resources can potentially lead to biopiracy, a concern particularly relevant to indigenous and local communities. By appropriating these invaluable assets without adequate recognition or compensation, such patenting practices compromise both ethical considerations and the sustainable preservation of diverse cultural and ecological heritage. 
-1. How can biomass be used as feed for black soldier fly larvae  
+1. [How can biomass be used as feed for black soldier fly larvae](summaries/blacksoldierfly.md)
 1. The younger demographic of San Joaquin Valley means that we have a less experienced and less skilled workforce.   
 1. How can we access and then test out research done in university settings? 
 1. Plastic serves an important role in keeping food products sanitary for consumers. New bio-made plastic alternatives will need to adequately serve the same purpose.  

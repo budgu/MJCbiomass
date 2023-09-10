@@ -8,7 +8,7 @@ There are a few invasive species here in the Central Valley that need to be addr
 ## Mistletoe
 Mistletoe is a known invasive species by many homeowners. Mistletoe is a semi parasitic plant growing on trees and shrubs in our region. This plant feeds off the nutrients of trees while slowly killing them. This also causes other parasites to easily feed off the trees. During the fall you can drive by trees which will still have these green leaves surrounding one branch. Those trees are infected by mistletoe. Even after the tree’s leaves are gone, the mistletoe will still be on the tree sucking away nutrients from the tree to stay alive. Birds will take the seeds from the mistletoe and drop them onto other trees causing it to spread indiscriminately until a whole neighborhood is filled with mistletoe. This is a source of frustration for many homeowners. The National Cancer Institute denotes mistletoe extract as a widely studied medicinal therapy for people with cancer although it is not yet approved by the FDA.
 
-![mistletoe](/images/mistletoe.jpg)
+![mistletoe](https://cdn.britannica.com/12/158112-050-F9AF8CB0/Oak-oak-tree-mistletoe-plants-Eastern.jpg)
 
 ## Water Hyacinth 
 
@@ -18,4 +18,4 @@ Water hyacinth is one of the many invasive species that are known in Stanislaus 
 
 Although cattails are invasive in some parts, they may be more help than harm. Research already exists which demonstrates the viability of using cattails to extract toxins from our waters and using them as a source for biofuel. How can we use Cattails to our advantage here in Stanislaus County? What could the uses be?
 
-![cattails](images/cattail.jpg)
+![cattails](https://www.gardeningknowhow.com/wp-content/uploads/2020/11/red-bulrush.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "What to do with Invasive Species"
-description:  
+description: ‎
 ---
 
 There are a few invasive species here in the Central Valley that need to be addressed. Mistletoe being one. In Stanislaus County, there are a number of invasive and undesired species of plants afflicting our waterways and trees which can be utilized as a useful feedstock for bioindustries energy production and manufacturing. In the ag community there are many systems in place to utilize the excess biomass on their farms. However, there are untapped sources of biomass which are only getting bigger. Overall, this would give incentive for helping our environment by removing these unwanted plants.

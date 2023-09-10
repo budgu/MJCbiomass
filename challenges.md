@@ -43,7 +43,7 @@ title: "Challenge Statements"
 1. Employers consistently express frustration over the accessibility, responsiveness, and alignment of supports in sourcing mid-skill talent across industries and occupations. (Pulled directly from Stan 2030 report, page 11.)  
 1. The County has relatively weak institutional capabilities in research, development, and commercialization that can bring value-add products to market or provide firms with a problem-solving partner to anchor them in the region. (Pulled directly from Stan 2030 report, page 11)  
 1. Biotechnology is inherently dangerous, and should something go wrong, our community could be ground zero for an ecological disaster.  
-1. Are there alternatives to corn which provide an equally efficient and inexpensive way for companies to produce ethanol for biofuel?  
+1. [Are there alternatives to corn which provide an equally efficient and inexpensive way for companies to produce ethanol for biofuel?](cornEthanol.md)
 1. How to rebuild local infrastructure and make it more environmentally friendly. 
 1. Money for fixing machinery and even the time going into trying to find replacements for the machines take time.  
 1. What can be done to reduce transportation costs for products to be imported and exported to local areas.  

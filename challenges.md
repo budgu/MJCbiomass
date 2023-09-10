@@ -1,6 +1,6 @@
 ---
 title: "Challenge Statements"
-description: blah blah
+description: A list of 151 biomass-related challenges that we've identified within the San Joaquin Valley
 ---
 
 
@@ -57,7 +57,7 @@ description: blah blah
 1. The younger demographic of San Joaquin Valley means that we have a less experienced and less skilled workforce.   
 1. How can we access and then test out research done in university settings? 
 1. Plastic serves an important role in keeping food products sanitary for consumers. New bio-made plastic alternatives will need to adequately serve the same purpose.  
-1. [How can we use invasive species like mistletoe, water hyacinth and cattails to create products?](summaries/invasive species.md)
+1. [How can we use invasive species like mistletoe, water hyacinth and cattails to create products?](summaries/invasivespecies.md)
 1. At Aemetis and probably other manufacturing companies, operators are hard to hire and keep onboard  
 1. How to reduce the costs of making eco-friendly products.  
 1. We don’t have a big enough workforce to do biotech since it has been outsourced to other countries such as in Europe, China, and Brazil  

@@ -7,7 +7,7 @@ There are a few invasive species here in the Central Valley that need to be addr
 ## Mistletoe
 Mistletoe is a known invasive species by many homeowners. Mistletoe is a semi parasitic plant growing on trees and shrubs in our region. This plant feeds off the nutrients of trees while slowly killing them. This also causes other parasites to easily feed off the trees. During the fall you can drive by trees which will still have these green leaves surrounding one branch. Those trees are infected by mistletoe. Even after the tree’s leaves are gone, the mistletoe will still be on the tree sucking away nutrients from the tree to stay alive. Birds will take the seeds from the mistletoe and drop them onto other trees causing it to spread indiscriminately until a whole neighborhood is filled with mistletoe. This is a source of frustration for many homeowners. The National Cancer Institute denotes mistletoe extract as a widely studied medicinal therapy for people with cancer although it is not yet approved by the FDA.
 
-![mistletoe](/images/cattail.jpg)
+![mistletoe](https://github.com/budgu/MJCbiomass/blob/dfc0d1ba7e6f9ab92cb832bbdfc2273ccbf11a73/images/mistletoe.jpg)
 
 ## Water Hyacinth 
 Water hyacinth is one of the many invasive species that are known in Stanislaus County. This plant gets very compact and can block waterways and even blocks native plants from growing. New plants can grow rapidly doubling in numbers in just a single week. Another thing it does is deprives the water from nutrients. Just fully pulling them out of the water can be dangerous to the habitants of the water so it isn’t possible to just take them out. Tuolumne river in Modesto has a bunch of water hyacinth that is a struggle for fishers. Today, water hyacinth is being utilized for a variety of purposes throughout the U.S. and beyond as feed, compost, and as a way of water treatment due to its ability to absorb metals and toxins. 
@@ -15,4 +15,4 @@ Water hyacinth is one of the many invasive species that are known in Stanislaus 
 ## Cattails 
 Although cattails are invasive in some parts, they may be more help than harm. Research already exists which demonstrates the viability of using cattails to extract toxins from our waters and using them as a source for biofuel. How can we use Cattails to our advantage here in Stanislaus County? What could the uses be?
 
-![cattails](/images/cattail.jpg)
+![cattails](images/cattail.jpg)

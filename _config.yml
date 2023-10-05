@@ -1,6 +1,8 @@
-title: ![image](Logo_with_Words[1].png)
+title: MJC Biomass Project
+image: /images/Logo_with_Words[1].png
 description: For three intensive weeks, MJC Student Fellows researched and wrote up challenges related to the development of a local biomass industry. We heard from and interviewed community members who have knowledge about ways the biomass gets sources, converted and repurposed. The most important and hardest part of innovation is finding the right problems to solve, and that was our mission.
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
+
 - jekyll-remote-theme

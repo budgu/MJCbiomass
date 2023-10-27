@@ -1,3 +1,4 @@
+![A Better Path youtube video](https://www.youtube.com/watch?v=_xoNNTyFxpk&ab_channel=RealityyProduction)
 ![group photo in front of tree](images/group1.jpeg)
 
 Workshop outcomes

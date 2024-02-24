@@ -5,7 +5,7 @@ description: A list of 152 biomass-related challenges that we've identified with
 
 
 ## Upstream 
-1. [Transportation of the weight of biomass is expensive. Converting it needs to be local.](summaries/transport.html)
+1. [Transportation of the weight of biomass is expensive. Converting it needs to be local.](summaries/transport.md)
 1. Costs of transportation can become excessive  
 1. Most municipal waste is not recycled properly
 1. What can we do with invasive species?  

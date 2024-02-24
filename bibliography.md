@@ -28,8 +28,7 @@ They also stated that coffee industries produce over 7 million tons of coffee gr
  rice husk(cellulose (25–35%), hemicellulose (18–21%), lignin (26–31%) and silica (15–17%)) peanut shells, corn cob(contains 39–45% of glucan, 25–35% of xylan, 17–21% of lignin)
 Natural polymers can be used instead of synthetic polymers which come from fossil resources.
 Within all of these natural resources, the different types of polymers that come from them are often  overlooked
-Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.
-</details>
+Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.</details>
 
 1. 
 1.

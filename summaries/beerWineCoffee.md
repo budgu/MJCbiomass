@@ -1,6 +1,6 @@
 ---
 title: "MJC should have a course/program focused on beer, wine, and coffee making"
-description: ‎
+description: test23
 ---
 
 # MJC should have a course/program focused on beer, wine, and coffee making

@@ -4,26 +4,10 @@ description: References we used with a quick summary
 
 ---
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
-1. <details> 
+1. <details markdown=1> 
     <summary> This excellent 21-page 2020 scholarly article entitled “Recent Progress in the Conversion of Biomass Wastes into Functional Materials for Value-added Applications” reviews the literature from the last five years to provide an in-depth introduction to our topic:  biomass conversion. </summary>
-
 - In this reading they talk about research within 5 years including
     * Natural polymers
     * Biomass wastes
@@ -36,8 +20,7 @@ description: References we used with a quick summary
     * Wood
     * Ag waste peels
     * Biochar
-
-    </details>
+</details>
 
 1. 
 1.

@@ -3,11 +3,21 @@ title: "Bibliography"
 description: References we used with a quick summary
 
 ---
+<style>
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+</style>
+
 # Click on the summaries for an expanded version
 
 1. <details><summary> This excellent 21-page 2020 scholarly article entitled “Recent Progress in the Conversion of Biomass Wastes into Functional Materials for Value-added Applications” reviews the literature from the last five years to provide an in-depth introduction to our topic:  biomass conversion. </summary>
 
-    <div style="white-space: pre-wrap;">
+    <pre>
     - In this reading they talk about research within 5 years including
         * Natural polymers
         * Biomass wastes
@@ -33,5 +43,5 @@ description: References we used with a quick summary
         * Within all of these natural resources, the different types of polymers that come from them are often  overlooked
     - Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.
 
-    </div>
+    </pre>
 1. 

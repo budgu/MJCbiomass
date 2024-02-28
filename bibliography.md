@@ -46,6 +46,7 @@ pre {
     - Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.
     </pre>
 
+
 1. <details><summary>This 60-page 2019 document entitled <a href="pdfs/biomassForPower.pdf" class="image fit">“Biomass for power, fuels (and bio-products) in California”</a> produced by the “SB 100 Joint Agency Report: Charting a path to a 100% Clean Energy Future” seems to be a slide deck presented at a California Public Utilities Commission (CPUC) workshop gently arguing against the prevailing sentiment that biomass energy should be eliminated in the state of California. This argument is made in the context of Senate Bill 100 (or SB100) “requiring renewable energy and zero-carbon resources supply 100 percent of electric retail sales to end-use customers by 2045.” It’s evidence-based, thorough and can be found in the background reading module.</summary>
 
     <pre>
@@ -85,6 +86,7 @@ pre {
         - Loving:
             -Individualism and short-sightedness are the greatest problems of the current social system, we think, and the deepest cause of unsustainability. Love and compassion institutionalized in collective solutions is the better alternative.
     </pre>
+
 
 1. <details><summary>McKinsey Global Institute’s 25 page executive summary of their 2020 report entitled <a href="https://www.mckinsey.com/~/media/mckinsey/industries/life%20sciences/our%20insights/the%20bio%20revolution%20innovations%20transforming%20economies%20societies%20and%20our%20lives/mgi_the%20bio%20revolution_executive%20summary_may%202020.pdf"> “The Bio Revolution: Innovations Transforming Economies, Societies, and our Lives”</a> This report is about the emerging bio economy but unlike the Schmidt report, this one highlights risk factors. </summary>
 
@@ -140,6 +142,7 @@ pre {
             - Cost for farmers to transition to sustainable practices is high and they do not have many options for funding.
     </pre>
 
+
 1. <details><summary><a href="https://www.aginfo.net">The Agriculture Information Network</a> is an organization that produces short (two minutes or so each) ag-focused segments for local radio across the nation. There’s much to discover using their search engine;  start with the search term “biomass.”  <a href="https://www.aginfo.net/report/50766/California-Ag-Today/Biomass-Collaborative">Here’s a piece</a> that comes up about a new biomass collaborative launched by Cal Poly to find new uses for biomass in light of the California Air Resources Board’s dictum that “nearly all agricultural burning in the San Joaquin Valley will be phased out by Jan. 1, 2025.” <a href="https://www.stanag.org/pdf/cropreport/cropreport2021.pdf">2021 Stanislaus County Agricultural Report</a></summary>
 
     <pre>
@@ -155,6 +158,70 @@ pre {
     - Top Ten Export Countries: 1. Republic of Korea 2. United Arab Emirates 3. Japan 4. Germany 5. India 6. Spain 7. China 8. Italy 9. Vietnam 10. The Netherlands (pg. 26)
     </pre>
 
+
 1. Link to the <a href="https://www.stanag.org/agricultural-statistics.shtm"> Stanislaus County “Agricultural Statistics Report”</a> for 2021 This is a 28 page report that inventories ag output in our county.
 
-1. Stanislaus County has invested ten million dollars into the biomass initiative to develop a new hub of economic activity as per Stan2030 goals. 99-page Board Action Summary
+1. Stanislaus County has invested ten million dollars into the biomass initiative to develop a new hub of economic activity as per Stan2030 goals. <a href="https://www.stancounty.com/bos/agenda/2023/20230131/DIS01.pdf">99-page Board Action Summary</a>
+
+1. <details><summary>This <a href="https://www.youtube.com/watch?v=rbJs5dNHUK8&feature=youtu.be&themeRefresh=1">one-hour video</a> provides a high-level overview of TID operations including the provision of clean water and electricity to their constituency. Biomass connection:  TID operates almond and walnut biomass-burning generators.</summary>
+
+    <pre>
+    - Watershed comprised of Tuolumne River, Don Pedro Reservoir, Turlock Lake, La Grange Dam, regulating reservoirs, canals and additional bodies of waters to supply water for agriculture and water in homes and cities.
+    - Turlock Lake is one of the largest recharge basins in the region.
+    - Don Pedro Dam is 1 of 2 U.S. Dams that are locally owned and operated.
+    - Diverse set of power generation methods including: Hydrogeneration (main source), solar, wind, geothermal (geysers), and natural gas (combustion).
+    - There are a variety of sustainable and environmentally savvy initiatives in progress including, restoration of natural habitats by adding gravel and raising rivers’ water levels and Project Nexus, which is a state funded pilot project which is working to cover canals with solar panels.
+    -TID maintains an Energy Imbalance Market which determines the most efficient and economical manner to compensate for inequities between power generation and consumer load required.
+    - Natural Gas-fired Power Plants: 
+        - Walnut Energy Center (WEC ) (2 turbines) – 75 MW output each / steam turbine runs solely from exhaust fumes through boiler - 100 MW output = 250 MW total output
+        - Walnut power plant (2 combustion turbines) – 50 MW output each
+        - Almond power plant (4 combustion turbines) – 200+ MW output total
+        - Walnut power plant “does not run as often” as other plants
+        - 2 Personnel minimum at all times (24/7, 365 days); 15-20 maintenance workers per plant, except Walnut power plant; 1 operator in control room with a helper in the plant observing and testing
+        - “Load-following” facility: in collaboration with TID’s other power generating facilities, WEC’s power generation will go up and down according to signals from power control (central HQ)
+        - Mike Tejada, Combustion Turbine Department Manager
+    </pre>
+
+
+1. <details><summary>This <a href="https://www.csustan.edu/cba/san-joaquin-valley-business-forecast">24-page San Joaquin Business Forecast</a> is an annual report published by the Stan State Economics Department faculty. It’s an important resource though doesn’t have direct relevance to our biomass topic.</summary>
+
+    <pre>
+    - Most workers in the valley are unskilled
+    - Retail trade reporting increases unemployment
+    - Farm related whole sale trade employment grew 3.42% in 2022 despite drought
+    - Farm related trade transportation and utilities employment grew by 3.69% in 2022
+    - Construction employment up 7.75%
+    - Fresno total employment 5.46% and surrounding areas a similar increase
+    - Valley farm related whole sale up 3 times the sample average
+    - Valley manufacturing development up .22%
+    - Farm trade, transportation and utility grew even in the worst months of the pandemic it did decrease 6.63% still exceed the sample average of 2.04%
+    - Construction employment up 7.75%
+    - This region impacted more from inflation do to high living cost
+    </pre>
+
+1. This 9-page World Economic Forum 2021 report entitled <a href="https://www3.weforum.org/docs/WEF_Converting_Biomass_to_Energy.pdf">“Converting Biomass to Energy: A Case Study in Avoiding Greenwashing” </a>promotes the wood-to-energy industry but also explores its challenges which is interesting in the California context where cogeneration is out of favor. World Economic Forum is a really interesting publication that “strives in all its efforts to demonstrate entrepreneurship in the global public interest while upholding the highest standards of governance.” Use some search terms like “biomass” or “biomanufacturing” to discover additional resources.
+
+1. The <a href="https://biomassmagazine.com">Biomass Magazine’s website</a> includes wonky articles and podcasts. Search the archives based on your interests and consider reaching out to authors and podcasters for interviews. And check out their <a href="https://www.youtube.com/@biomassmagazine/videos">youtube channel</a>
+
+1. The <a href="http://www.biomassconference.com/ema/DisplayPage.aspx?pageId=Program_Tracks#track1">17th International Biomass Conference and Expo </a>being held March 4-6, 2024 in Richmond, VA is completely focused on energy production and offers four tracks which themselves are informative about how the biomass energy industry is divided.
+
+1. <details><summary>This 20-page article entitled <a href="https://www.frontiersin.org/articles/10.3389/fceng.2021.640983/full">“Nut Shells as Adsorbents of Pollutants: Research and Perspectives” </a>explores the research concerning nut biomass and their ability to be converted into substances that clean up waste water.</summary>
+
+    <pre>
+    - "the last 5-years average of the world pistachio production amounted to just above 250 Mton"
+    - In the intro they spoke about how because of the shells being peeled on the sites getting of the shells is easier.
+    - Pistachio Hulls have been used as absorbents in removing pollutants  including:
+        - naphthol green B (NG-B)
+        - phenol red (PH-R) dye
+        - Methylene blue
+        - Remazol red
+    - There was a study done by Yetilmezsoy and demirel in 2008, using raw Antep pistachios to absorb lead
+    - In 2010 Moussavi and Barikbin did studies on removing chromium VI from synthetic wastewaters using raw pistachios
+    - Biochar is also another product that can be created by pistachio hulls and shells
+    - These points also apply to
+        - Cashews
+        - Pecans
+        - Castor seed hull
+    
+    - Overall the text spoke about many pollutants that different hulls and shells are able to absorb. Maybe this could apply to almond hulls and shells as well
+    </pre>

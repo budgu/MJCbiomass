@@ -56,7 +56,7 @@ pre {
     - The utilization of solid fuel biomass in California involves a variety of agricultural and food processing residues, clean urban wood, and forest product residues. While biomass steam plants were initially constructed to mitigate pollution from open burning, they currently face challenges related to cost, efficiency, and perception of pollution. However, the significant availability of woody biomass from expanding tree and vine acreage presents opportunities for power, liquid fuel, and biogas production, while also reducing emissions from open burning and maximizing resource utilization.
     </pre>
 
-1. <details><summary>To provide context for the above, this webpage on the <a href="https://www.energy.ca.gov/publications/2021/2021-sb-100-joint-agency-report-achieving-100-percent-clean-electricity">California Energy Commission’s site entitled “2021 SB 100 Joint Agency Report, Achieving 100 Percent Clean Electricity in California: An Initial Assessment”</a> includes links to the complete report and a summary of it. The complete report “includes a review of the policy to provide 100 percent of electricity retail sales and state loads from renewable and zero-carbon resources in California by 2045. The report assesses various pathways to achieve the target and an initial assessment of costs and benefits. The report includes results from capacity expansion modeling and makes recommendations for further analysis and actions by the joint agencies.”  The recommendation is made to exclude “electricity generated from combustion of biomass and fossil fuels, including natural gas.”</summary>
+1. To provide context for the above, this webpage on the <a href="https://www.energy.ca.gov/publications/2021/2021-sb-100-joint-agency-report-achieving-100-percent-clean-electricity">California Energy Commission’s site entitled “2021 SB 100 Joint Agency Report, Achieving 100 Percent Clean Electricity in California: An Initial Assessment”</a> includes links to the complete report and a summary of it. The complete report “includes a review of the policy to provide 100 percent of electricity retail sales and state loads from renewable and zero-carbon resources in California by 2045. The report assesses various pathways to achieve the target and an initial assessment of costs and benefits. The report includes results from capacity expansion modeling and makes recommendations for further analysis and actions by the joint agencies.”  The recommendation is made to exclude “electricity generated from combustion of biomass and fossil fuels, including natural gas.”
 
 1. <details><summary>This 13 page chapter from Meadows, Randers and Meadows 2004 book entitled <a href = "https://donellameadows.org/archives/tools-for-the-transition-to-sustainability/"> Tools for the Transition to Sustainability”</a> calls for a Sustainability Revolution to follow in line after the Agricultural Revolution and the Industrial Revolution. It provides a nice macro history of human social evolution and some tools for change making. </summary>
 
@@ -122,7 +122,7 @@ pre {
 
 1. The 2016 <a href="https://www.energy.gov/eere/bioenergy/2016-billion-ton-report">“Billion Ton Report”</a> was the third of three studies and reports undertaken by the U.S. Department of Energy to assess the availability of biomass for energy production. It finds that U.S. biomass has the potential to replace 30% of American’s fossil fuel use. This web page has a two-minute video introduction, links to all of the reports, and fact sheets.  The video and fact sheets provide nice snapshots, and if you want to go deeper, “Volume 1: Economic Availability of Feedstocks” is linked and has a 12 page executive summary.
 
-1. <a href="https://www.zerofoodprint.org">Zero Foodprint</a> is an organization that supports food producers as they zero out their carbon emissions, so it's not directly involved in biomass conversion industry though they support sustainable biomass practices. Many resources are available under the tabs entitled “About,” “Carbon Farming,” and “News.”
+1. <details><summary><a href="https://www.zerofoodprint.org">Zero Foodprint</a> is an organization that supports food producers as they zero out their carbon emissions, so it's not directly involved in biomass conversion industry though they support sustainable biomass practices. Many resources are available under the tabs entitled “About,” “Carbon Farming,” and “News.”</summary>
 
     <pre>
     - Restoring the climate one meal at a time
@@ -139,3 +139,22 @@ pre {
                 - Farmers using regenerative practices don’t qualify for subsidies
             - Cost for farmers to transition to sustainable practices is high and they do not have many options for funding.
     </pre>
+
+1. <details><summary><a href="https://www.aginfo.net">The Agriculture Information Network</a> is an organization that produces short (two minutes or so each) ag-focused segments for local radio across the nation. There’s much to discover using their search engine;  start with the search term “biomass.”  <a href="https://www.aginfo.net/report/50766/California-Ag-Today/Biomass-Collaborative">Here’s a piece</a> that comes up about a new biomass collaborative launched by Cal Poly to find new uses for biomass in light of the California Air Resources Board’s dictum that “nearly all agricultural burning in the San Joaquin Valley will be phased out by Jan. 1, 2025.” <a href="https://www.stanag.org/pdf/cropreport/cropreport2021.pdf">2021 Stanislaus County Agricultural Report</a></summary>
+
+    <pre>
+    - Number of Cattle & Calves: 265,274. Number of Poultry: 187,585,560 - Livestock and Poultry products went down in value by $100 million from 2020 – 2021 (pg. 6)
+    - 453,156 pollination colonies in Stanislaus County ($201.88/colony - $91,483,000 total value) (pg. 7)
+    - For hay crops, the top 3 are Alfalfa, Oat, and Wheat. Alfalfa is valued the highest. Wheat is valued the lowest. (pg. 8)
+    - 23,057 acres used as Pasture for livestock (pg. 8)
+    - Corn Silage was valued at $94,190,000. More than double the value of all Hay crops.
+    - The cost of almond hulls was very cheap ($5.86 per ton) (pg. 9)
+    - Livestock Associations based in Stanislaus County: California Poultry Association, Squab Producers of California, Western United DairyMen (pg. 12)
+    - In Stanislaus County there were 3621 farms, 165 dairies, and 722,546 acres of farmland (94% farmed by families) (pg. 12, 27)
+    - Top 10 commodities: 1. Almonds 2. Milk 3. Poultry 4. Cattle/Calves 5. Nursery Fruit and Nut Trees 6. Silage 7. Walnuts 8. Almond Pollination 9. Cherries 10. Hay (pg. 5)
+    - Top Ten Export Countries: 1. Republic of Korea 2. United Arab Emirates 3. Japan 4. Germany 5. India 6. Spain 7. China 8. Italy 9. Vietnam 10. The Netherlands (pg. 26)
+    </pre>
+
+1. Link to the <a href="https://www.stanag.org/agricultural-statistics.shtm"> Stanislaus County “Agricultural Statistics Report”</a> for 2021 This is a 28 page report that inventories ag output in our county.
+
+1. Stanislaus County has invested ten million dollars into the biomass initiative to develop a new hub of economic activity as per Stan2030 goals. 99-page Board Action Summary

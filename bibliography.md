@@ -86,7 +86,7 @@ pre {
             -Individualism and short-sightedness are the greatest problems of the current social system, we think, and the deepest cause of unsustainability. Love and compassion institutionalized in collective solutions is the better alternative.
     </pre>
 
-1. McKinsey Global Institute’s 25 page executive summary of their 2020 report entitled <a href="https://www.mckinsey.com/~/media/mckinsey/industries/life%20sciences/our%20insights/the%20bio%20revolution%20innovations%20transforming%20economies%20societies%20and%20our%20lives/mgi_the%20bio%20revolution_executive%20summary_may%202020.pdf"> “The Bio Revolution: Innovations Transforming Economies, Societies, and our Lives”</a> This report is about the emerging bio economy but unlike the Schmidt report, this one highlights risk factors.
+1. <details><summary>McKinsey Global Institute’s 25 page executive summary of their 2020 report entitled <a href="https://www.mckinsey.com/~/media/mckinsey/industries/life%20sciences/our%20insights/the%20bio%20revolution%20innovations%20transforming%20economies%20societies%20and%20our%20lives/mgi_the%20bio%20revolution_executive%20summary_may%202020.pdf"> “The Bio Revolution: Innovations Transforming Economies, Societies, and our Lives”</a> This report is about the emerging bio economy but unlike the Schmidt report, this one highlights risk factors. </summary>
 
     <pre>
     - Biomolecules, biosystems, biomachines, and biocomputing are all emerging and evolving technologies, and are being adapted for commercial use.
@@ -116,4 +116,26 @@ pre {
     - Value propositions will play a significant role in adoption, feasibility, and cost effectiveness as emerging technologies come into the open market.
     </pre>
 
-    
+1. <details><summary>Read around in this 80-page white paper which was published by Schmidt Futures in 2022 entitled <a href="https://www.schmidtfutures.org/wp-content/uploads/2023/05/Bioeconomy-Task-Force-Strategy-4.14.22-4.pdf"> “The U.S. Bioeconomy: Charting a Course for a Resilient and Competitive Future.”</a> This report is motivated by the fear of losing the race to dominate the burgeoning bio economy and provides development strategies. </summary>
+
+1. <details><summary>This 64-page 2023 report entitled <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/Bold-Goals-for-U.S.-Biotechnology-and-Biomanufacturing-Harnessing-Research-and-Development-To-Further-Societal-Goals-FINAL.pdf"> “Bold Goals for U.S. Biotechnology and Biomanufacturing”</a> is published by the White House per executive order. Like the McKinsey and Schmidt reports, it charts a course for establishing a new economy. From the Executive Summary:  “This report on climate change solutions provides an overview of ten bold goals and associated R&D needs to safely harness rapid developments in biotechnology and biomanufacturing to dramatically decrease GHG emissions, increase carbon sequestration, and develop innovative products.”</summary>
+
+1. <details><summary>The 2016 <a href="https://www.energy.gov/eere/bioenergy/2016-billion-ton-report">“Billion Ton Report”</a> was the third of three studies and reports undertaken by the U.S. Department of Energy to assess the availability of biomass for energy production. It finds that U.S. biomass has the potential to replace 30% of American’s fossil fuel use. This web page has a two-minute video introduction, links to all of the reports, and fact sheets.  The video and fact sheets provide nice snapshots, and if you want to go deeper, “Volume 1: Economic Availability of Feedstocks” is linked and has a 12 page executive summary.</summary>
+
+1. <details><summary><a href="https://www.zerofoodprint.org">Zero Foodprint</a> is an organization that supports food producers as they zero out their carbon emissions, so it's not directly involved in biomass conversion industry though they support sustainable biomass practices. Many resources are available under the tabs entitled “About,” “Carbon Farming,” and “News.”</summary>
+
+    <pre>
+    - Restoring the climate one meal at a time
+    - Crowd funded grants are given to farmers to allow them to switch to renewable farming practices
+    - How it works:
+        - Consumers send 1% of every purchase from a ZFP business – often just a few cents
+        - ZFP optimally and equitably distribute restore grants to farmers applicants for healthy soil projects
+        - Local trusted conservation experts estimate the climate benefit, and help implement and verify carbon farming projects
+    - A mere 2% increase in the carbon content of the planet’s soils could offset 100% of all greenhouse gas emissions going into the atmosphere
+        - “Plants absorb carbon from the sky and turn it into sugars to eat and feed the soil which sustains their growth. (Basically, plants can transform “bad carbon” greenhouse gases in the atmosphere into “good carbon” in the form of soil biology, pulling that carbon back down where it belongs: underground)”
+            - “The more living things in the soil, and the deeper the root systems, the more carbon gets sucked down from the sky”
+        - There is a movement among farmers and ranchers who want to switch from extractive to renewable practices but many farmers can’t afford to take the leap
+            - In 2018, American farmers lost about $60/acre before subsidies and only made $20 per acre after subsidies
+                - Farmers using regenerative practices don’t qualify for subsidies
+            - Cost for farmers to transition to sustainable practices is high and they do not have many options for funding.
+    </pre>

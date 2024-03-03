@@ -46,6 +46,7 @@ pre {
     - Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.
     </pre>
 
+
 1. <details><summary>This 60-page 2019 document entitled <a href="pdfs/biomassForPower.pdf" class="image fit">“Biomass for power, fuels (and bio-products) in California”</a> produced by the “SB 100 Joint Agency Report: Charting a path to a 100% Clean Energy Future” seems to be a slide deck presented at a California Public Utilities Commission (CPUC) workshop gently arguing against the prevailing sentiment that biomass energy should be eliminated in the state of California. This argument is made in the context of Senate Bill 100 (or SB100) “requiring renewable energy and zero-carbon resources supply 100 percent of electric retail sales to end-use customers by 2045.” It’s evidence-based, thorough and can be found in the background reading module.</summary>
 
     <pre>
@@ -85,6 +86,7 @@ pre {
         - Loving:
             -Individualism and short-sightedness are the greatest problems of the current social system, we think, and the deepest cause of unsustainability. Love and compassion institutionalized in collective solutions is the better alternative.
     </pre>
+
 
 1. <details><summary>McKinsey Global Institute’s 25 page executive summary of their 2020 report entitled <a href="https://www.mckinsey.com/~/media/mckinsey/industries/life%20sciences/our%20insights/the%20bio%20revolution%20innovations%20transforming%20economies%20societies%20and%20our%20lives/mgi_the%20bio%20revolution_executive%20summary_may%202020.pdf"> “The Bio Revolution: Innovations Transforming Economies, Societies, and our Lives”</a> This report is about the emerging bio economy but unlike the Schmidt report, this one highlights risk factors. </summary>
 
@@ -140,6 +142,7 @@ pre {
             - Cost for farmers to transition to sustainable practices is high and they do not have many options for funding.
     </pre>
 
+
 1. <details><summary><a href="https://www.aginfo.net">The Agriculture Information Network</a> is an organization that produces short (two minutes or so each) ag-focused segments for local radio across the nation. There’s much to discover using their search engine;  start with the search term “biomass.”  <a href="https://www.aginfo.net/report/50766/California-Ag-Today/Biomass-Collaborative">Here’s a piece</a> that comes up about a new biomass collaborative launched by Cal Poly to find new uses for biomass in light of the California Air Resources Board’s dictum that “nearly all agricultural burning in the San Joaquin Valley will be phased out by Jan. 1, 2025.” <a href="https://www.stanag.org/pdf/cropreport/cropreport2021.pdf">2021 Stanislaus County Agricultural Report</a></summary>
 
     <pre>
@@ -154,6 +157,7 @@ pre {
     - Top 10 commodities: 1. Almonds 2. Milk 3. Poultry 4. Cattle/Calves 5. Nursery Fruit and Nut Trees 6. Silage 7. Walnuts 8. Almond Pollination 9. Cherries 10. Hay (pg. 5)
     - Top Ten Export Countries: 1. Republic of Korea 2. United Arab Emirates 3. Japan 4. Germany 5. India 6. Spain 7. China 8. Italy 9. Vietnam 10. The Netherlands (pg. 26)
     </pre>
+
 
 1. Link to the <a href="https://www.stanag.org/agricultural-statistics.shtm"> Stanislaus County “Agricultural Statistics Report”</a> for 2021 This is a 28 page report that inventories ag output in our county.
 
@@ -177,6 +181,7 @@ pre {
         - “Load-following” facility: in collaboration with TID’s other power generating facilities, WEC’s power generation will go up and down according to signals from power control (central HQ)
         - Mike Tejada, Combustion Turbine Department Manager
     </pre>
+
 
 1. <details><summary>This <a href="https://www.csustan.edu/cba/san-joaquin-valley-business-forecast">24-page San Joaquin Business Forecast</a> is an annual report published by the Stan State Economics Department faculty. It’s an important resource though doesn’t have direct relevance to our biomass topic.</summary>
 
@@ -220,3 +225,30 @@ pre {
     
     - Overall the text spoke about many pollutants that different hulls and shells are able to absorb. Maybe this could apply to almond hulls and shells as well
     </pre>
+
+
+1. <details><summary>This 20-page article entitled <a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.643306/full">“Torrefaction of Almond and Walnut Byproducts” could be especially interesting for a chemistry major.</a></summary>
+
+    <pre>
+    - The US nut industry is growing. The market for nut byproducts is not.
+    - Torrefaction is a thermochemical process used to improve physicochemical properties of biomass for energy and their applications.
+    - The process consists of thermal treatment of biomass at 200 and 300c in the absence of oxygen.
+    - Torrefied biomass exhibits higher hydrophobicity and calorific value with reduced moisture absorption making it a better fuel source for energy than raw biomass.
+    - The heat treatment removes most of the hemicellulose and amorphous cellulose but leaves the lignin mostly intact.
+    - Products from biomass torrefaction: permanent gas composed mostly of CO2 and CO; a condensable liquid , composed mostly of water, organic acids,  aldehydes, and phenolic compounds; and a carbonized solid referred to as torrefied biomass. 
+    - The condensate can be used as a herbicide, pesticide, Fungicide, insecticide and repellent.
+    - Typically the torrefied biomass results in solid yields over 50%.
+    - Almond processors have reported paying disposal fees of $11-27 per metric ton to dispose of excess shells.
+    - A few studies have been done to assess torrefaction and they show that torrefaction is a successful alternative to just incinerating the shells.
+    - Utilization of torrefied biomass includes pretreatment for energy products, soil amendment, soil remediation, sorbent and filtration media, filler or additive in composites, carbon black substitute, precursor for activated carbon, and as a source for carbon sequestration.
+    - Torrefaction can produce products with similar or improved properties to biochar with better energy input and cost.
+    - For energy products torrefaction can decrease transportation and storage costs of biomass by improving properties like moisture content prior to transportation.
+    - Biomass energy provides 5 times more than wind and solar globally.
+    - Torrefaction pretreatment benefits: reduced moisture of biomass ; lower oxygen-to-carbon ratio, increasing heating value of the biomass; higher hydrophobicity;  and improved ignitability, reactivity, and grindability.
+    - Torrefaction found to be more efficient then pelletization and pyrolysis.
+    - Has potential to reduce the cost of bio power/fuel.
+    - Torrefied biomass as a filler in composites improves biocomposites mechanical and thermal properties.
+    - Increased temp results in increased carbon content, reduced hydrogen and oxygen but lower yields.
+    - Torrefaction removes moisture first, then hemicellulose, then cellulose than lignin.
+    </pre>
+    

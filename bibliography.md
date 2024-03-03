@@ -291,6 +291,7 @@ pre {
     </pre>
 
 1. <details><summary>This web page, <a href="https://sjrgas.com/news/investment-opportunity/">“Investment Opportunity to Convert Biomass into Natural Gas in the San Joaquin Valley,”</a> announces a new biomass-to-fuel conversion company, San Joaquin Renewables, in Bakersfield and calls for investors.</summary>
+
     <pre>
     - The San Joaquin Valley in California plays a crucial role in the U.S. agricultural sector, contributing nearly 12% of the U.S. agricultural gross domestic product. It is also a primary source of petroleum and natural gas for the state.
     - Despite its agricultural significance, the San Joaquin Valley faces a severe air quality problem, with some of the worst air quality levels in the U.S. This poses a significant health hazard to local residents, as it fails to meet compliance standards for five of six ambient air pollutants.

@@ -46,7 +46,6 @@ pre {
     - Overview of first reading: This text was meant to highlight newer ways of using natural resources other than having them dumped in landfills.  There are still some uses for biomass that have not been fully explored.
     </pre>
 
-
 1. <details><summary>This 60-page 2019 document entitled <a href="pdfs/biomassForPower.pdf" class="image fit">“Biomass for power, fuels (and bio-products) in California”</a> produced by the “SB 100 Joint Agency Report: Charting a path to a 100% Clean Energy Future” seems to be a slide deck presented at a California Public Utilities Commission (CPUC) workshop gently arguing against the prevailing sentiment that biomass energy should be eliminated in the state of California. This argument is made in the context of Senate Bill 100 (or SB100) “requiring renewable energy and zero-carbon resources supply 100 percent of electric retail sales to end-use customers by 2045.” It’s evidence-based, thorough and can be found in the background reading module.</summary>
 
     <pre>
@@ -86,7 +85,6 @@ pre {
         - Loving:
             -Individualism and short-sightedness are the greatest problems of the current social system, we think, and the deepest cause of unsustainability. Love and compassion institutionalized in collective solutions is the better alternative.
     </pre>
-
 
 1. <details><summary>McKinsey Global Institute’s 25 page executive summary of their 2020 report entitled <a href="https://www.mckinsey.com/~/media/mckinsey/industries/life%20sciences/our%20insights/the%20bio%20revolution%20innovations%20transforming%20economies%20societies%20and%20our%20lives/mgi_the%20bio%20revolution_executive%20summary_may%202020.pdf"> “The Bio Revolution: Innovations Transforming Economies, Societies, and our Lives”</a> This report is about the emerging bio economy but unlike the Schmidt report, this one highlights risk factors. </summary>
 
@@ -142,7 +140,6 @@ pre {
             - Cost for farmers to transition to sustainable practices is high and they do not have many options for funding.
     </pre>
 
-
 1. <details><summary><a href="https://www.aginfo.net">The Agriculture Information Network</a> is an organization that produces short (two minutes or so each) ag-focused segments for local radio across the nation. There’s much to discover using their search engine;  start with the search term “biomass.”  <a href="https://www.aginfo.net/report/50766/California-Ag-Today/Biomass-Collaborative">Here’s a piece</a> that comes up about a new biomass collaborative launched by Cal Poly to find new uses for biomass in light of the California Air Resources Board’s dictum that “nearly all agricultural burning in the San Joaquin Valley will be phased out by Jan. 1, 2025.” <a href="https://www.stanag.org/pdf/cropreport/cropreport2021.pdf">2021 Stanislaus County Agricultural Report</a></summary>
 
     <pre>
@@ -157,7 +154,6 @@ pre {
     - Top 10 commodities: 1. Almonds 2. Milk 3. Poultry 4. Cattle/Calves 5. Nursery Fruit and Nut Trees 6. Silage 7. Walnuts 8. Almond Pollination 9. Cherries 10. Hay (pg. 5)
     - Top Ten Export Countries: 1. Republic of Korea 2. United Arab Emirates 3. Japan 4. Germany 5. India 6. Spain 7. China 8. Italy 9. Vietnam 10. The Netherlands (pg. 26)
     </pre>
-
 
 1. Link to the <a href="https://www.stanag.org/agricultural-statistics.shtm"> Stanislaus County “Agricultural Statistics Report”</a> for 2021 This is a 28 page report that inventories ag output in our county.
 
@@ -181,7 +177,6 @@ pre {
         - “Load-following” facility: in collaboration with TID’s other power generating facilities, WEC’s power generation will go up and down according to signals from power control (central HQ)
         - Mike Tejada, Combustion Turbine Department Manager
     </pre>
-
 
 1. <details><summary>This <a href="https://www.csustan.edu/cba/san-joaquin-valley-business-forecast">24-page San Joaquin Business Forecast</a> is an annual report published by the Stan State Economics Department faculty. It’s an important resource though doesn’t have direct relevance to our biomass topic.</summary>
 

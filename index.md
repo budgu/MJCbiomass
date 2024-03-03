@@ -12,6 +12,8 @@ Workshop outcomes
 
 The workshop grew out of MJC’s engagement in the Stanislaus2030 initiative which identified strategies for strengthening our regional economy including growing local bioindustrial manufacturing activities. MJC is now a collaborator in the BioEconomy, Agriculture, and Manufacturing (BEAM) Initiative catalyzed by this planning effort and is working with others across the region to advance innovations that transform biomass into valuable and sustainable products.
 
+<a href="pdfs/slideshow.pdf"> Powerpoint Slideshow presentation </a>
+
 # For more information, contact:
 Debbie Gilbert
 gilbertd@yosemite.edu

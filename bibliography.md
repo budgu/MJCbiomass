@@ -252,3 +252,245 @@ pre {
     - Torrefaction removes moisture first, then hemicellulose, then cellulose than lignin.
     </pre>
     
+1. This 27-page document/slideshow entitled <a href="pdfs/UCANRForestBiomass.pdf" class="image fit">“Empowering Resilient and Productive Landscapes”</a> outlines some of the work that is being done by UCANR to meet climate goals. It contains information regarding biomass conversion
+
+1. <details><summary>The <a href="https://ucanr.edu/About/">UCANR website</a> has a lot to offer but seems to be under construction at the moment, so I’ll just paste in their mission statement and let you explore the site later: “UC Agriculture and Natural Resources connects the power of UC research in agriculture, natural resources, nutrition and youth development with local communities to improve the lives of all”</summary>
+
+    <pre>
+    - As a vital component of the University of California system-wide Division of Agriculture and Natural Resources, our mission encompasses the dissemination of scientifically grounded insights, expert guidance, and valuable insights into funding avenues, all in support of advancing biomass utilization endeavors across the expanse of California.
+    - California's vast expanse spans approximately 100 million acres, with nearly 40 percent of its territory designated as forested regions, encompassing an array of ownerships including National Forest System lands, privately held, tribal, state-owned, and other federal government-managed areas.
+    - Forest activities such as logging, thinning, and ecosystem restoration generate substantial woody biomass, with a substantial portion left within the forests. The accumulation of residual materials like mastication debris and timber slash, when scattered, amplifies wildfire risks by augmenting dry surface fuels, underlining the necessity for alternative management approaches.
+    - The challenge of economically extracting woody biomass from forests often necessitates significant subsidies or compromises, as the cost-effectiveness of removal frequently requires sacrificing more valuable resources like saw logs, further emphasizing the complexity of sustainable forestry practices.
+    - Sawmills offer a pragmatic and cost-efficient reservoir of readily accessible woody biomass, consisting of bark, sawdust, wood chips, wood shavings, and cull logs. This versatile material finds utility across multiple sectors, from powering plants and crafting landscape amendments to producing compost, animal bedding, pulp, and panel boards, showcasing its multifaceted potential for enhancing various industries while mitigating ecological concerns.
+    </pre>
+
+## Shorter Resources
+
+1. This four-page Forbes article <a href="https://www.forbes.com/sites/deborahwince-smith/2023/02/27/bio-revolution-ready-to-scale/?sh=6c2ca93e2bae">“Bio-Revolution Ready To Scale“</a> provides an overview of the federal government’s scale-up plans for biomanufacturing.
+
+1. <details><summary>This four-page article entitled <a href="https://www.weforum.org/agenda/2020/10/circular-bioeconomy-nature-reset/">“Why the World Needs a 'Circular Bioeconomy' - for Jobs, Biodiversity and Prosperity”</a> published by the World Economic Forumin 2020 approaches its call for economic change from an environmental standpoint of valuing nature and biodiversity</summary>
+
+    <pre>
+    - 1/3 of our land is severely degraded.
+    - In 2019, we were losing forests at a rate of one football field per six seconds
+    - Up to 1 million species are threatened with extinctions
+    - Over half of the world’s GDP ($44 trillion) is threatened by such nature loss
+    - The sustainable management of forests can create $230 billion in business opportunities and 16 million jobs by 2030.
+    - Shifting energy and extractives’ socio-economic system to a circular and resource-efficient models can lead to $2.3 trillion in business opportunities and 30 million jobs by 2030.
+    - Working with nature in the infrastructure and built environment system can generate a total of $3 trillion business opportunities and 117 million jobs by 2030.
+    </pre>
+
+1. <details><summary>A <a href="https://www.usda.gov/sites/default/files/documents/Bioproduct_Factsheet.pdf">2012 USDA Fact Sheet on bioproducts</a></summary>
+
+    <pre>
+    - The bio-economy uses renewable biological resources from land and sea to produce food, feed, materials, chemicals, fuels, and energy. It is not a new idea but an old idea that historically was employed in the production of bread, cheese, and wine through fermentation.   
+    - In recent years, bio-products have been increasingly produced, sold, and used by industries. Within the United States, 4 million jobs and 2,500 USDA certified biomass-based products were 
+    - Evonik Industries is a German industrial corporation investigating biomass-based chemicals with $13 billion in sales in 2016.5 In that same year, the company started a $600 million commercialization campaign of bio-surfactants; this is surface-active biomolecules produced from microorganisms with variety of applications. Europe’s approach on bioproducts mainly centers on the processing technology of bioproducts. The bio-economy is thriving now, but the future holds more in store. Many bioenergy firms are still in their R&D stages.
+    - Bio-products should build on the idea that one’s waste is another’s input. 
+    - Institutions matter and the development of the industrialeducation complex that support R&D in these sectors will have significant effects on its development. Institutions that support these industries should be probed and better understood. 
+    </pre>
+
+1. <details><summary>This web page, <a href="https://sjrgas.com/news/investment-opportunity/">“Investment Opportunity to Convert Biomass into Natural Gas in the San Joaquin Valley,”</a> announces a new biomass-to-fuel conversion company, San Joaquin Renewables, in Bakersfield and calls for investors.</summary>
+    <pre>
+    - The San Joaquin Valley in California plays a crucial role in the U.S. agricultural sector, contributing nearly 12% of the U.S. agricultural gross domestic product. It is also a primary source of petroleum and natural gas for the state.
+    - Despite its agricultural significance, the San Joaquin Valley faces a severe air quality problem, with some of the worst air quality levels in the U.S. This poses a significant health hazard to local residents, as it fails to meet compliance standards for five of six ambient air pollutants.
+    - Farmers in the San Joaquin Valley resort to illegal open burning of excess agricultural residues due to the lack of viable disposal options. This practice contributes to the region's air pollution issues, even though fines of up to $500 per acre are imposed.
+    - San Joaquin Renewables, LLC aims to address the issues of air pollution, excess agricultural waste, and the shortage of cellulosic biofuels by building and operating a biomass energy facility near Bakersfield, California. The facility will produce Renewable Natural Gas (RNG) from sustainable almond orchard waste wood and nut shells, offering a cleaner alternative to open burning and generating valuable RNG transportation fuel. 
+    - The proposed biomass energy facility will employ Frontline BioEnergy's Biomass into Natural Gas (BING™) process, which utilizes patented gasification technology and proprietary methanation catalyst. This technology allows for more efficient and cost-effective production of RNG from biomass compared to other cellulosic biofuel processes. The success of this initiative is expected to have positive environmental and economic impacts, reducing waste, improving air quality, and providing returns for investors.
+    </pre>
+
+1. This poster published by The Central Valley Air Quality Coalition (CVAC) is entitled <a href="https://www.calcleanair.org/wp-content/uploads/2019/03/biomass-handout-legislators.pdf">“Sustainable Alternatives to Biomass Incineration in the San Joaquin Valley”</a> and argues against biomass incineration due to its air pollution and provides alternatives.
+
+1. <details><summary>This <a href="https://new.nsf.gov/funding/initiatives/regional-innovation-engines">NSF Innovation Engines Grant website</a> explains the grant that Karen Warner and her team at <a href="https://www.beamcircular.org/">BEAM Circular</a> were awarded to begin the complicated process of launching a new hub of industry in the Northern San Joaquin Valley around biomass conversion a.k.a. Biomanufacturing.</summary>
+
+    <pre>
+    - NSF Engine program fosters innovation across the U.S.
+    - Each engine can receive up to $160 million over 10 years
+    - goals of NSF Engine program: 
+        - boost innovation capacity
+        - create sustainable innovation ecosystems
+        -demonstrate inclusive economic growth
+    </pre>
+
+1. <details><summary>The bioeconomy requires people with expertise for operations, expansion, and innovation. <a href="https://www.futurelearn.com/info/courses/what-could-a-biobased-economy-mean-for-the-future-health-of-our-planet-/0/steps/228545">This short article</a> describes several possible bioeconomy careers.</summary>
+
+    <pre>
+    - bioeconomy set to double in growth in next 10 years
+    - bioeconomy has potential to solve:
+        - how to meet the requirements of a growing population
+        - reduce our reliance on fossil fuels
+        - combat climate change
+    - Jobs include microbiologist, energy engineer, anaerobic digestion plant operator, forest/woodland manager, chemical engineer
+    </pre>
+
+1. This website entitled <a href="https://medium.com/age-of-awareness/bioeconomy-degrees-and-where-to-get-them-6ab11c058f07">“Bioeconomy Degrees and Where To Get Them”</a> describes four dedicated bioeconomy degree programs. None are in the U.S. If you choose this resource to digest perhaps you can find one or two at home starting with Solano Community College which is right up the road in Fairfield (here are their <a href="https://welcome.solano.edu/biomanufacturing/">biomanufacturing</a> and <a href="https://welcome.solano.edu/tassel-biotechnology/">biotechnology</a> pages);  
+
+1. <details><summary>The title of this one-page article published by Farm Bureau Financial Services in 2020, <a href="https://www.fbfs.com/learning-center/4-uses-for-agricultural-waste-that-can-save-farmers-money">“4 Uses for Agricultural Waste That Can Save Farmers Money,”</a> explains it all</summary>
+
+    <pre>
+    - Farm waste
+        - Manure
+        - Corn stalks
+        - Unproductive seeds
+        - Stalks of cotton and sugarcane
+        - Plant based byproducts
+    - Different ways of "recycling" and using these products
+        - Biofuels
+        - Plastic substitutes 
+        - Bioplastics 
+        - Compost 
+    - What I took from this text is that farms really do produce a lot of ag waste that can have many uses that can bring money into the farms but also be better for the environment
+
+    </pre>
+
+1. <details><summary>This three-page 2019 article entitled <a href="https://www.greenbiz.com/article/scientists-around-world-are-turning-agricultural-waste-food-packaging-and-skincare-products">“Scientists Around the World are Turning Agricultural Waste into Food, Packaging and Skincare Products”</a> describes three regional biomass initiatives involving cacao in Colombia, biomass-based packaging materials in France, and biomolecules in Australia.</summary>
+
+    <pre>
+    - A 2018 study out of Brazil estimated that in 2013, there was a total of 5.5 billion tons of crop residues globally.
+    - When harvesting and processing cacao, for every pound of cacao seed, 12 pounds of excess waste material is produced.
+    - Researchers in Colombia have found ways to use the waste to make beer, juice, pudding-like deserts, and nutraceuticals.
+    - They have also found a way to incorporate some of the cacao plant waste, through extraction, into chocolate bars and are replacing some of the traditionally used sweeteners and emulsifiers.
+    - A French project Glopack is using spoiled fruit juices, cattle manure, wheat straw and grapevine shoots as feedstocks for biodegradable polymers in packaging.
+    - Australian researchers are looking for new pigments used in food and cosmetics derived from fruits and vegetables.
+    </pre>
+
+1. <details><summary>This two-page 2019 article, <a href="https://www.newswise.com/articles/making-high-value-products-from-agricultural-waste">“Making High-value Products from Agricultural Waste,”</a> describes the launch of the Research Consortium Program for Agricultural Product Development at the University of Adelaide and provides an overview of several projects underway.</summary>
+
+    <pre>
+    - In late 2019, the Research Consortium Project was launched in South Australia with the goal of creating high value products from agricultural waste.
+    - Up to 40 percent of Southern Australia’s harvest ends up as waste.
+    - They are looking for compounds within their harvest waste products for value in skincare products, pre and pro-biotics, food additives, lubricants, and structural materials.
+    - Current projects are working with apples, berries, Brussels sprout stalks, and mushrooms.
+    </pre>
+
+1. <details><summary>This two-page 2018 article <a href="https://www.bloomberg.com/news/articles/2018-04-24/packaging-made-from-crop-waste-could-curb-india-s-pollution">“Making Products With Crop Waste Could Improve India's Air and Water”</a> is about using biomass to make food packaging material that decomposes in several months (like leaves). Bio-plastics replace single-use plastics which Americans use in abundance;  the article states that while India produces 5.5 million tons of plastic waste per year, The U.S., which has four times as many people as India, creates 31 million tons of plastic.  We create 25 times as much plastic waste per capita then Indians.  Let’s pursue this one and figure out how to create biodegradable packaging materials right here at MJC.</summary>
+
+    <pre>
+    - Bio-lutions, a German based company, uses Mulberry plant scraps to create eco-friendly and biodegradeable food packaging
+        - A sister company has began efforts in India to attempt to combat the estimated 15,000 tons of plastic that are created every day, roughly 5.5 million tons per year
+            - In comparison, the US produced 31 million tons of plastic waste in 2010
+    - Leaves are shredded and dried for two days before being cleaned, mixed with water, and converted into self-binding fibers in a patented machine. Additional water and centrifugal force are applied to the material to create a pulp which is then put through a forming machine and hot press to create the final packaging tray.
+    - This company also uses wheat and rice straw, sugarcane leaves, banana stems, pineapple leaves, and tomato plants
+    - The factory uses just 3.7 to 5.3 quarts of water for every 2 pounds of product
+        - No chemicals are added and very little energy is used for the process
+    - Their products biodegrade in about 3 months.
+    </pre>
+
+1. This three-page article <a href="https://calrecycle.ca.gov/organics/successstories/">“Organics Management Success Story: Mid Valley Disposal”</a> provides specific information about how one residential waste management company overcame a bunch of challenges and expanded their composting operation
+
+1. <details><summary>Check out the <a href="https://www.susconplastics.com/">Suscon website</a>. Their mission is “to manufacture eco-friendly products in an environmentally safe facility with minimal waste. Increased energy-efficient manufacturing with flexibility to suit your needs are just two of the areas we target as we strive to improve as a green friendly facility.”  Here is the website of a local plastic manufacturer, <a href="https://www.jatco.com/">Jacto</a>, who is innovating in the eco-friendly direction.</summary>
+
+    <pre>
+    - The web page didn't have really any info on the eco-friendly part of their business
+        - All of our resins are recyclable.
+        - Our goal is to manufacture eco-friendly products in an environmentally safe facility with minimal waste. Increased energy-efficient manufacturing
+    </pre>
+
+1. <details><summary>I’m not sure that these technically count as biomass-made, but here are some cool products that offer alternatives to single-use plastics: <a href="https://www.amazon.com/s?k=Tapari&ref=ams_pages">Palash-sal leaf plates and bowls</a> and <a href="https://www.amazon.com/s?k=Better+than+Bamboo">bamboo bowls and plates</a>. See if you can find some more.</summary>
+
+    <pre>
+    - These links take you to ecofriendly and biodegradable Tupperware
+    - As soon as I typed in "Bio" it came up with a list of things including biodegradable:
+        - poop bags
+        - trash bags
+        - grass seed mat
+        - plates
+        - soap
+        - wipes
+        - Sunscreen straws
+        - Cups
+    - I went ahead and just searched in amazon "biodegradable" and saw:
+        - Floss picks
+        - Natural kitchen sponges
+        - Toothbrushes
+        - Forks
+        - Food storage bags (ziplock)
+        - Ecofriendly disposable gloves
+        - Dishwasher detergent pods
+        - Clear cold cups
+    </pre>
+
+1. <details><summary>WBUR (Boston Public Radio) presented a one-page <a href="https://www.wbur.org/news/2022/12/29/developer-suing-dep-biomass-plant">story of a biomass facility</a> in Springfiled, Mass., that has been a battle for 15 years.  The author of the article is <a href="https://www.wbur.org/inside/staff/miriam-wasser">Miriam Wasser</a>, senior reporter, Climate and Environment She may offer interesting insights.</summary>
+
+    <pre>
+    - Residents didn't want a factory burning waste in their city for fear of pollutants
+    - Air quality permits revoked
+    - Potentially could lose millions if not allowed to finish construction
+    - The developers say they would be using state-of-the-art technology to trap air emissions, critics say the facility would still release harmful and climatewarming pollutants
+    </pre>
+
+1. <details><summary>The <a href="https://www.energy.ca.gov/data-reports/california-power-generation-and-power-sources/biomass">Biomass webpage of the California Energy Commission</a> has a useful description of the four types of biomass power plants:  biomass, digester gas (anaerobic digestion), landfill gas, and municipal solid waste.</summary>
+
+    <pre>
+    - Biomass electricity produced by combusting or decomposing biomass matter
+    - Biomass components include: cellulose, hemicellulose, lignin, lipids, proteins, simple sugars, starches, water, ash, hydrocarbons, etc.
+    - Anaerobic digestion:
+        - Digester produces methane (CH4) and carbon dioxide (CO2) from organic matter which is decomposed by anerobic organisms in an airtight lagoon
+        - 3 steps: decomposition; conversion of decomposed matter to organic acids; conversion of acids to methane gas
+        - Demonstrated use in with agricultural waste and treating municipal/industrial wastewater (examples: Knudsen and Sons project wastewater treatment; Langerwerf Dairy plug flow digester)
+        - “Reduces odor and liquid waste disposal problems”
+    - Programs policies such as Senate Bill 771 (old) and Public Interest Energy Research (PIER) provide funding for R&D involving biomass power generation.
+    - Landfill Gas (LFG) Power Plants:
+        - Collection system drilled into landfill which captures mainly methane gas
+        - The EPA monitors landfills closely for fires, explosions, and air pollution emissions by authority of the Clean Air Act
+        - LFG facilities provide solution to environmental and safety issues by collecting and using gas for power generation and/or heating
+        - 1988 legislation prevents LSG from being sold to gas utilities and/or corporations
+        - “Generally fewer permitting issues” for LSG recovery facilities compared to other MSW*-to-energy facilities due to them being located at existing landfills
+    Municipal Solid Waste:
+        - Processing methods: mass burn, refuse derived fuel, pyrolysis/thermal gasification
+        - “Tipping fee”: MSW facilities are paid by fuel suppliers to take fuel
+    *MSW: Municipal Solid Waste
+    </pre>
+
+1. The California Biomass Energy Alliance has an <a href="https://www.calbiomass.org/facilities-map/">interactive map</a> with the names of the biomass producers by name, location, and website. 
+
+1. <details><summary>This <a href="https://biomassmagazine.com/articles/usda-awards-32m-in-wood-innovations-and-community-grants-19028">three-page 2022 article</a> describes a USDA grant program to support wood innovation and lists and briefly describes the grant projects. There are a lot of interesting ones and notably, a number of them have to do with biochar like this one that caught my eye:  “University of California—Merced, California: $207,361 to develop natural fiber insulation material from forest biochar for sustainable fire-resistant buildings”</summary>
+
+    <pre>
+    - USDA grant program for projects that biomass that support bio-energy bio-fuel and bio-based product production
+    - Aemetis was a one of the recipients of the grant, they received support to create a small, commercial-scale production of “carbon zero” biofuels from forest biomass
+    - Yosemite Clean energy in Oroville received a grant to support development of a wood waste to biofuel gasification plant in Northern Sierra Nevada
+    - UC Merced received a grant to develop natural fiber insulation material from forest biochar for sustainable fir-resistant building
+    </pre>
+
+1. <details><summary>This two-page article <a href="https://biomassmagazine.com/articles/peanut-shells-to-power-17881">“Peanut Shells to Power”</a> published in 2022 describes a peanut producer’s sustainable setup; he grows peanuts, burns the shells and sells the resultant energy back to the grid, and finally makes bricks from the peanut shell ash.</summary>
+
+    <pre>
+    - 1 million tons of peanuts produced in Argentina
+    - Prodeman, a Cordoban peanut producer, generates 70 gigawatt-hours of electric power, annually, which is produced by solely burning agricultural waste from peanut production
+    - 1 hectare of peanuts = 1.1 tons of peanut shells
+    - 1 ton of peanut shells produces 1.25 megawatt-hours (MWh) of electricity – Peanut shells have high calorific value (17,570 kg)
+    - Baling peanut shells is the only treatment – densifies material, enables sourcing from a larger radius
+    - Peanut shells burned in water tube boiler to produce high pressure steam which powers turbine
+    - Ash, which is byproduct of the burning, is used to produce bricks
+    - The power plant complies with provisions of the 2015 Paris Agreement
+    - Prodeman recieved funding from Argentina based on use of “an abundant waste product”, “low additional process energy”, “short distances to consumers”, and "low logistic costs” – Prodeman’s power plant cost $1.9 million USD/MW
+    - Jorge Ruben Ciravegna is the engineer who is behind the power plant
+    </pre>
+
+1. <details><summary>This two-page Fresno Bee article published in 2021 argues that biomass incinerators are a bad idea: <a href="pdfs/farFromBeingAGoodEnergySource.pdf" class="image fit">“Far From Being a Good Energy Source, Biomass Threatens Central Valley Health, Climate.”</a></summary>
+
+    <pre>
+    - Mendota biomass power plant one of the largest air polluters in the region
+    - The plant produced dangerous fine particles that cause health problems like heart disease permeate death stroke and aggravated asthma
+    - Biomass power plants are major emitters of air pollutants especially fine particulate matter and nitrogen oxides and are guilty of repeated air quality violations.
+    - Mendota biomass plant was the largest stationary source of fine particulate pollution in Kings, Fresno, and Madera counties combined
+    - Rio Bravo biomass plant is the second largest point source of fine Particle pollution in Fresno county 
+    - Particle pollution causes an estimated 1,200 premature deaths in the valley every year
+    - In San Joaquin Valley 4 out of 5 bio plants are in disadvantaged communities with some of the highest air pollution in the state
+    - Biomass power is more carbon polluting at the smoke stack then coal
+    - Biomass power supplies less than 3% of the states total electric power
+    </pre>
+
+1. Marin County also has a <a href="https://www.marinrcd.org/marinbiomassproject/">Biomass Project</a>
+
+1. Here’s a great <a href="https://www.advancedtech.com/blog/future-of-biology-in-manufacturing/#:~:text=Some%20of%20the%20processes%20in,production%2C%20generating%20power%20from%20biomass">overview/definition of biomanufacturing.</a>
+
+1. Did you know that <a href="https://olivercompanylondon.com/pages/apple-leather">“leather” can be made out of apple biomass?</a> And it can be very fashionable.   
+
+1. This is a <a href="https://www.mangomaterials.com/">company that claims to make biodegradable plastic.</a>
+
+1. If you have Netflix, I recommend episode 3 of season 2 of Down to Earth “Regenerative Agriculture.” There’s a great segment on mushrooms. (Cordyceps are a little scary.)
+
+1. Positive Energy, a show on Disney +
+

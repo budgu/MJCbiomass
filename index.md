@@ -12,43 +12,6 @@ Workshop outcomes
 
 The workshop grew out of MJC’s engagement in the Stanislaus2030 initiative which identified strategies for strengthening our regional economy including growing local bioindustrial manufacturing activities. MJC is now a collaborator in the BioEconomy, Agriculture, and Manufacturing (BEAM) Initiative catalyzed by this planning effort and is working with others across the region to advance innovations that transform biomass into valuable and sustainable products.
 
-## Powerpoint Slideshow
-<script type="text/javascript" src="https://raw.github.com/mozilla/pdf.js/gh-pages/build/pdf.js"></script>
-<script type="text/javascript">
-function renderPDF(url, canvasContainer, options) {
-    var options = options || { scale: 1 };
-
-    function renderPage(page) {
-        var viewport = page.getViewport(options.scale);
-        var canvas = document.createElement('canvas');
-        var ctx = canvas.getContext('2d');
-        var renderContext = {
-          canvasContext: ctx,
-          viewport: viewport
-        };
-
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
-        canvasContainer.appendChild(canvas);
-
-        page.render(renderContext);
-    }
-
-    function renderPages(pdfDoc) {
-        for(var num = 1; num <= pdfDoc.numPages; num++)
-            pdfDoc.getPage(num).then(renderPage);
-    }
-    PDFJS.disableWorker = true;
-    PDFJS.getDocument(url).then(renderPages);
-}   
-</script> 
-
-<div id="holder"></div>
-
-<script type="text/javascript">
-renderPDF('pdfs/slideshow.pdf', document.getElementById('holder'));
-</script>  
-
 # For more information, contact:
 Debbie Gilbert
 gilbertd@yosemite.edu

@@ -12,6 +12,9 @@ pre {
     white-space: -o-pre-wrap;    /* Opera 7 */
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+summary {
+display: list-item;
+}
 </style>
 # Click on the arrow to expand the summary
 
@@ -251,7 +254,7 @@ pre {
     - Increased temp results in increased carbon content, reduced hydrogen and oxygen but lower yields.
     - Torrefaction removes moisture first, then hemicellulose, then cellulose than lignin.
     </pre>
-    
+
 1. This 27-page document/slideshow entitled <a href="pdfs/UCANRForestBiomass.pdf" class="image fit">“Empowering Resilient and Productive Landscapes”</a> outlines some of the work that is being done by UCANR to meet climate goals. It contains information regarding biomass conversion
 
 1. <details><summary>The <a href="https://ucanr.edu/About/">UCANR website</a> has a lot to offer but seems to be under construction at the moment, so I’ll just paste in their mission statement and let you explore the site later: “UC Agriculture and Natural Resources connects the power of UC research in agriculture, natural resources, nutrition and youth development with local communities to improve the lives of all”</summary>
